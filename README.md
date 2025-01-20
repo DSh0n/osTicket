@@ -13,7 +13,7 @@ In this tutorial, we will walk you through the process of installing osTicket on
 - <b>Microsoft Azure</b>
 - <b>Internet Information Services</b>
 
-<h2>Environments Used </h2>
+<h2>Operating Systems Used</h2>
 
 - <b>Windows 10</b>
 
