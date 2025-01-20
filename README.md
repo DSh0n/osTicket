@@ -7,7 +7,7 @@ In this tutorial, we will walk you through the process of installing osTicket on
 <br />
 
 
-<h2>Languages and Utilities Used</h2>
+<h2>Environments and Technologies Used</h2>
 
 - <b>Microsoft Remote Desktop</b> 
 - <b>Microsoft Azure</b>
